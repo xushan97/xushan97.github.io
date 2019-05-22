@@ -8,6 +8,6 @@
 </head>
 <body>
   NIHAO
-   <% response.setHeader("refresh", "5;URL=http://localhost:8888/LastyearShop"); %>
+   <% response.setHeader("refresh", "5;URL=http://47.100.16.32/HEHEheee"); %>
 </body>
 </html>
